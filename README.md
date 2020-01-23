@@ -1,2 +1,0 @@
-# ENTD
-Prueba de entornos
